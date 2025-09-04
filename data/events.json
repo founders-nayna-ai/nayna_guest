@@ -1,0 +1,188 @@
+{
+  "weddings": [
+    {
+      "wedding_id": "WED001",
+      "wedding_name": "Sneha & Rohit Wedding",
+      "venue_name": "Jaipur Palace",
+      "venue_address": "Raja Road, Jaipur",
+      "city": "Jaipur",
+      "tz": "Asia/Kolkata",
+      "host_wa_ids": [
+        "918273380245",
+        "918273380244"
+      ],
+      "guests": [
+        {
+          "name": "Rahul",
+          "phone": "919001112233"
+        },
+        {
+          "name": "sneha",
+          "phone": "918273380244"
+        },
+        {
+          "name": "Anjali",
+          "phone": "919001122344"
+        },
+        {
+          "name": "Dudu",
+          "phone": "916295840057",
+          "relation": "Ex"
+        }
+      ],
+      "sub_events": [
+        {
+          "event_name": "Mehendi",
+          "date": "2025-08-30",
+          "time": "16:00",
+          "venue_area": "Palace Courtyard",
+          "theme": "Floral & Green",
+          "dress_code": "Green & Yellow",
+          "notes": "Open-air function with live dhol & mehendi artists."
+        },
+        {
+          "event_name": "Sangeet",
+          "date": "2025-08-31",
+          "time": "19:00",
+          "venue_area": "Grand Ballroom",
+          "theme": "Bollywood Night",
+          "dress_code": "Glam & Sparkle",
+          "notes": "Dance performances lined up, DJ after dinner."
+        },
+        {
+          "event_name": "Wedding Ceremony",
+          "date": "2025-09-01",
+          "time": "11:00",
+          "venue_area": "Main Lawn",
+          "theme": "Royal Rajasthani",
+          "dress_code": "Traditional Ethnic",
+          "notes": "Haldi in morning, pheras in afternoon."
+        },
+        {
+          "event_name": "Reception",
+          "date": "2025-09-02",
+          "time": "20:00",
+          "venue_area": "Banquet Hall",
+          "theme": "Classic Gold",
+          "dress_code": "Formal / Western",
+          "notes": "Formal dinner & music performances."
+        }
+      ]
+    },
+    {
+      "wedding_id": "WED002",
+      "wedding_name": "Priya & Arjun Wedding",
+      "venue_name": "ITC Grand",
+      "venue_address": "Marine Drive",
+      "city": "Mumbai",
+      "tz": "Asia/Kolkata",
+      "host_wa_ids": [
+        "918273380246",
+        "9876543210"
+      ],
+      "guests": [
+        {
+          "name": "Siddharth",
+          "phone": "919002223344"
+        },
+        {
+          "name": "Riya",
+          "phone": "918273380245"
+        }
+      ],
+      "sub_events": [
+        {
+          "event_name": "Mehendi",
+          "date": "2025-09-06",
+          "time": "15:00",
+          "venue_area": "Poolside Deck",
+          "theme": "Beach Vibes",
+          "dress_code": "Floral Prints",
+          "notes": "Cocktail counters and live mehendi stalls."
+        },
+        {
+          "event_name": "Sangeet",
+          "date": "2025-09-07",
+          "time": "20:00",
+          "venue_area": "Crystal Ballroom",
+          "theme": "Retro Disco",
+          "dress_code": "Shiny & Sequins",
+          "notes": "Couple dance + surprise celebrity singer."
+        },
+        {
+          "event_name": "Wedding Ceremony",
+          "date": "2025-09-08",
+          "time": "10:30",
+          "venue_area": "Seaside Lawn",
+          "theme": "Seaside Mandap",
+          "dress_code": "Traditional Saree & Sherwani",
+          "notes": "Mandap setup facing the sea."
+        },
+        {
+          "event_name": "Reception",
+          "date": "2025-09-09",
+          "time": "19:30",
+          "venue_area": "Grand Ballroom",
+          "theme": "Modern Glam",
+          "dress_code": "Black Tie/Formal",
+          "notes": "Live band performance during dinner."
+        }
+      ]
+    },
+    {
+      "wedding_id": "WED003",
+      "wedding_name": "Amit & Neha Wedding",
+      "venue_name": "Taj Palace",
+      "venue_address": "Chanakyapuri",
+      "city": "New Delhi",
+      "tz": "Asia/Kolkata",
+      "host_wa_ids": [
+        "9123456780"
+      ],
+      "guests": [
+        {
+          "name": "Manish",
+          "phone": "918273380244"
+        }
+      ],
+      "sub_events": [
+        {
+          "event_name": "Mehendi",
+          "date": "2025-09-14",
+          "time": "16:00",
+          "venue_area": "Mughal Garden",
+          "theme": "Pastel Bliss",
+          "dress_code": "Pastel Shades",
+          "notes": "Live folk singers during ceremony."
+        },
+        {
+          "event_name": "Sangeet",
+          "date": "2025-09-15",
+          "time": "19:30",
+          "venue_area": "Regal Ballroom",
+          "theme": "Royal Bollywood",
+          "dress_code": "Bright & Glam",
+          "notes": "Dance floor + live percussionists."
+        },
+        {
+          "event_name": "Wedding Ceremony",
+          "date": "2025-09-16",
+          "time": "11:30",
+          "venue_area": "Central Lawn",
+          "theme": "Classic Elegance",
+          "dress_code": "Sherwani & Lehenga",
+          "notes": "Varmala on stage with fireworks."
+        },
+        {
+          "event_name": "Reception",
+          "date": "2025-09-17",
+          "time": "20:00",
+          "venue_area": "Ballroom",
+          "theme": "White & Gold",
+          "dress_code": "Formal",
+          "notes": "Sit-down dinner with live jazz."
+        }
+      ]
+    }
+  ]
+}

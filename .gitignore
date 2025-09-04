@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -205,3 +206,29 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+=======
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Environment & secrets
+.env
+
+# Logs & debug
+*.log
+*.logl
+
+# Session data (runtime generated)
+data/sessions/
+data/onboarding_sessions/
+
+# VS Code settings
+.vscode/
+>>>>>>> 18d1d5f (Added .gitignore and project files)
