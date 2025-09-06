@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "wedding-assistant"
+version = "0.1.0"
+dependencies = [
+    "fastapi",
+    "uvicorn",
+    "langgraph",
+    "python-dotenv",
+    "httpx",
+    "openai>=1.40.0",
+]

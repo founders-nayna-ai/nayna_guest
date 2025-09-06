@@ -1,0 +1,9 @@
+{
+  "dependencies": [
+    "."
+  ],
+  "graphs": {
+    "router": "./graph_router_llm.py:compiled"
+  },
+  "env": ".env"
+}
